@@ -13,7 +13,7 @@ import tempfile
 import warnings
 from pathlib import Path
 
-import django_mongodb
+import django_mongodb_backend
 
 try:
     import django
